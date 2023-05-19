@@ -1,5 +1,5 @@
 # Darian_Variant_Calculator
-Calculator made in JavaScript(Android Studio)
+Calculator made in Java(Android Studio)
 
 The scope of this project was to familiarize with the IDE's of Google and JetBrains for android apps developing.
 
